@@ -1,7 +1,7 @@
 {
 	"vagas": [
 		{
-			"id": 1,
+			"id": 1, 
 			"titulo": "Desenvolvedor Frontend",
 			"descricao": "React",
 			"idDepartamento": 1,
@@ -9,7 +9,7 @@
 			"status": "ABERTA"
 		},
 		{
-			"id": 2,
+			"id": 2, 
 			"titulo": "Analista de RH Júnior",
 			"descricao": "Triagem e entrevistas",
 			"idDepartamento": 1,
@@ -31,36 +31,6 @@
 			"email": "bruno@mail.com",
 			"telefone": "11 98888-8888",
 			"cpf": "444.444.444-44"
-		}
-	],
-	"processosSeletivos": [
-		{
-			"id": 1,
-			"idVaga": 1,
-			"etapa": "Triagem",
-			"dataInicio": "2025-11-01",
-			"status": "EM_ANDAMENTO",
-			"observacoes": "Buscando portfólios" },
-		{
-			"id": 2,
-			"idVaga": 2,
-			"etapa": "Entrevista",
-			"dataInicio": "2025-11-03",
-			"status": "EM_ANDAMENTO",
-			"observacoes": "" }
-	],
-	"inscricoes": [
-		{
-			"id": 1,
-			"idProcesso": 1,
-			"idCandidato": 1,
-			"situacao": "EM_AVALIACAO"
-		},
-		{
-			"id": 2,
-			"idProcesso": 1,
-			"idCandidato": 2,
-			"situacao": "REPROVADO"
 		}
 	]
 }
