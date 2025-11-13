@@ -39,14 +39,14 @@
 			"idVaga": 1,
 			"etapa": "Triagem",
 			"dataInicio": "2025-11-01",
-			"status": "EM_ANDAMENTO",
+			"status": "EM ANDAMENTO",
 			"observacoes": "Buscando portfólios" },
 		{
 			"id": 2,
 			"idVaga": 2,
 			"etapa": "Entrevista",
 			"dataInicio": "2025-11-03",
-			"status": "EM_ANDAMENTO",
+			"status": "EM ANDAMENTO",
 			"observacoes": "" }
 	],
 	"inscricoes": [
@@ -54,7 +54,7 @@
 			"id": 1,
 			"idProcesso": 1,
 			"idCandidato": 1,
-			"situacao": "EM_AVALIACAO"
+			"situacao": "EM AVALIACAO"
 		},
 		{
 			"id": 2,
