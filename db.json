@@ -23,14 +23,20 @@
 			"nome": "Ana Lima",
 			"email": "ana@mail.com",
 			"telefone": "11 90000-0000",
-			"cpf": "333.333.333-33"
+			"cpf": "333.333.333-33",
+			"rua": "Rua D",
+			"num": "4",
+			"bairro": "Bairro D"
 		},
 		{
 			"id": 2,
 			"nome": "Bruno Souza",
 			"email": "bruno@mail.com",
 			"telefone": "11 98888-8888",
-			"cpf": "444.444.444-44"
+			"cpf": "444.444.444-44",
+			"rua": "Rua E",
+			"num": "5",
+			"bairro": "Bairro E"
 		}
 	],
 	"processosSeletivos": [
