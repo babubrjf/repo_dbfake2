@@ -26,7 +26,8 @@
 			"cpf": "333.333.333-33",
 			"rua": "Rua D",
 			"num": "4",
-			"bairro": "Bairro D"
+			"bairro": "Bairro D",
+			"idVaga": 1
 		},
 		{
 			"id": 2,
@@ -36,7 +37,8 @@
 			"cpf": "444.444.444-44",
 			"rua": "Rua E",
 			"num": "5",
-			"bairro": "Bairro E"
+			"bairro": "Bairro E",
+			"idVaga": 2
 		}
 	],
 	"processosSeletivos": [
